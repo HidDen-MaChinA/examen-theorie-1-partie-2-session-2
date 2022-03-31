@@ -11,6 +11,6 @@ module.exports = { slice };//1
 
 //la complexiter temporelle de l'algorithme 
 //4+1+(6+5)*end+1+1
-//o=1+1(1+1)*n+1+1
-//o=1(1)*n
+//o=1+1+(1+1)*n+1+1
+//o=1+(1)*n
 //o=n
